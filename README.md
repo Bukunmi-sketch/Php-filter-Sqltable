@@ -6,11 +6,19 @@ this is a  SQL query command used with PHP that deletes two corresponding field 
 
 ## EXAMPLES
 
-  id | firstname | lastname           id | userid | cart_id
------------------------------       --------------------------
-  1 | olarinde   | Bukunmi      OR        1 | 30     | 23456   
------------------------------       ---------------------------
-  2 | olarinde   | Bukunmi             2 | 30     | 23456
+  id | firstname | lastname          
+---------------------------
+  1  | olarinde  | Bukunmi
+---------------------------- 
+  2  | olarinde  | Bukunmi 
+
+
+   id | userid | cart_id
+ --------------------------
+     1 | 30     | 23456   
+ --------------------------
+     2 | 30     | 23456
+
 
  **you might want to delete the second row in the table because it already existed**
 
