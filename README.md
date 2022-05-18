@@ -1,5 +1,5 @@
-# SQL-DELETE-DUPLICATE-ROW-FROM-TWO-COLUMNS
-this is a  SQL query command used with PHP that deletes two corresponding field value from two columns in a table
+# INTRODUCTION
+this is a  PHP function used with SQL query command that deletes two corresponding field value from two columns in a SQL table
 
 ## FEATURES
 * it simply deletes the occurence of two duplicate values in the two column specified
@@ -22,14 +22,14 @@ this is a  SQL query command used with PHP that deletes two corresponding field 
 
  **you might want to delete the second row in the table because it already existed**
 
- * The sql query does work effectively by deleting the second row in the value
+ * The PHP function does work effectively by deleting the second row in the value 
 
 
  
 
 ## SETUP
 * start your local server
-* if you have XAMPP on your local machine ,you can test it on PHPmyadmin
+* if you have XAMPP on your local machine , test it on PHPmyadmin
 
 
 ## Author 
