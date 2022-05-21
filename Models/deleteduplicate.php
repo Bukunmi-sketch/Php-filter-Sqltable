@@ -6,9 +6,9 @@
 *  **kindly read the readme to this file
 */
 
-/* include the file/paste your database connection details here
-    include ""database_connection file;
-
+/**  include the file/paste your database connection details here
+ *   include database_connection file;
+      assume $conn holds the database connection
 */
 
 
